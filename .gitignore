@@ -1,0 +1,7 @@
+# Visual Studio служебные файлы
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.tlog
