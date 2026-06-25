@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Перегрузка операторов для класса 3д координат/Перегрузка операторов для класса 3д координат.vcxproj" Id="2d747124-10c0-4359-bf93-5d070fe46007" />
+</Solution>

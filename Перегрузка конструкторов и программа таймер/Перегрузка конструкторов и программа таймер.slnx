@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Перегрузка конструкторов и программа таймер/Перегрузка конструкторов и программа таймер.vcxproj" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Перегрузка операторов функций не членов/Перегрузка операторов функций не членов.vcxproj" />
+</Solution>
