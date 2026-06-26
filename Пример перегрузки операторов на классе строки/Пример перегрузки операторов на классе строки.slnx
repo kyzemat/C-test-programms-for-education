@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Пример перегрузки операторов на классе строки/Пример перегрузки операторов на классе строки.vcxproj" />
+</Solution>
