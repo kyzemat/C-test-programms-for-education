@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Пример наследования конструкторы/Пример наследования конструкторы.vcxproj" />
+  <Project Path="Пример наследования конструкторы/Пример наследования конструкторы.vcxproj" Id="08361e10-cd58-4e9e-9e7b-1f68b023d2d4" />
 </Solution>
