@@ -19,9 +19,9 @@ public:
 		y = j;
 	}//Конструктор для классов triangle и rectangle
 
-	virtual void show_area() {
-		std::cout << "Для этого класса вычисление площади не определено\n";
-	}
+	virtual void show_area() = 0;	/*Обявляю абстрактную функцию, для того чтобы производные классы
+									  обязательно реализовывали ее по-своему*/
+
 };
 
 class triangle : public figure {

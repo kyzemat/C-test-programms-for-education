@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Пример динамического полиморфизма/Пример динамического полиморфизма.vcxproj" />
+  <Project Path="Пример динамического полиморфизма/Пример динамического полиморфизма.vcxproj" Id="8209bf88-0f6b-469b-a4fd-936024418202" />
 </Solution>
