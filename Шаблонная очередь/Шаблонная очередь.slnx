@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Шаблонная очередь/Шаблонная очередь.vcxproj" />
+  <Project Path="Шаблонная очередь/Шаблонная очередь.vcxproj" Id="c51f8640-d88f-4232-899f-97bd4e649287" />
 </Solution>

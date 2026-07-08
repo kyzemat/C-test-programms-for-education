@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Шаблон безопасного массива/Шаблон безопасного массива.vcxproj" />
+</Solution>
