@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Шаблонная функция/Шаблонная функция.vcxproj" />
+  <Project Path="Шаблонная функция/Шаблонная функция.vcxproj" Id="3818091c-fa34-42a0-a60a-5089188c24dd" />
 </Solution>
