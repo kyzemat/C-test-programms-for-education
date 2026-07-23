@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Перегрузка операторов new/Перегрузка операторов new.vcxproj" Id="9a07fd2f-d46f-430d-940c-c8d300e803a0" />
+</Solution>
