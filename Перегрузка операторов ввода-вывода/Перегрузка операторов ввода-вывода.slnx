@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Перегрузка операторов ввода-вывода/Перегрузка операторов ввода-вывода.vcxproj" />
+  <Project Path="Перегрузка операторов ввода-вывода/Перегрузка операторов ввода-вывода.vcxproj" Id="1766d4c0-c795-4ba0-bcb6-936a29c1bc29" />
 </Solution>
