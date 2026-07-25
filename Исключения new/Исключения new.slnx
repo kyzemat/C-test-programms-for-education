@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Исключения new/Исключения new.vcxproj" />
+  <Project Path="Исключения new/Исключения new.vcxproj" Id="a840d383-b01f-420d-925b-503ef8652d66" />
 </Solution>
