@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Установка форматирования width fill precision/Установка форматирования width fill precision.vcxproj" />
+</Solution>
