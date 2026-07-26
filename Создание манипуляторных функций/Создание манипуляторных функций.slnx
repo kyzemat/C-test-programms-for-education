@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Создание манипуляторных функций/Создание манипуляторных функций.vcxproj" />
+</Solution>
