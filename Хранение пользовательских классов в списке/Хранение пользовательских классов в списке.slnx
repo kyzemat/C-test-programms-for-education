@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Хранение пользовательских классов в списке/Хранение пользовательских классов в списке.vcxproj" />
+</Solution>
